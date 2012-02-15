@@ -8,6 +8,9 @@ public class HelloGitHub extends TestbedTest {
 		
 		System.out.println("Hello Petter, Magne is back!");
 		System.out.println("Petter er den beste av de beste p� gruppen og alle og magne er veldig enig!!!");
+		
+		System.out.println("DETTE BLE DEXEMT");
+
 	}
 
 	@Override
